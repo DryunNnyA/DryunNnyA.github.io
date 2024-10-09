@@ -79,14 +79,14 @@ header {
     widht: 75%;
 }
 
-.newsList {
+.InfoList {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     row-gap: 20px;
 }
 
-.newsItem {
+.infoItem {
     width: 48%;
     padding: 10px;
     background: #c0c0c0;
